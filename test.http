@@ -1,0 +1,8 @@
+POST http://localhost:8083/stream/register
+Content-Type: application/json
+
+{
+  "rtspUrl": "rtsp://admin:cebon61332433@192.168.99.215"
+}
+
+###
