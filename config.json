@@ -17,7 +17,7 @@
     },
     "H264_PCMALAW": {
       "on_demand": true,
-        "url": "rtsp://admin:61332433@192.168.99.115"
+        "url": "rtsp://admin:cebon61332433@192.168.99.215"
     }
   }
 }

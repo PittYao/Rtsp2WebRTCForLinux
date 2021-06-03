@@ -5,3 +5,6 @@
 
 ## 测试
 浏览器访问 localhost:8083/static
+
+## amd的适配交叉编译
+

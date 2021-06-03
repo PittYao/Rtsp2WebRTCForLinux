@@ -19,9 +19,9 @@ function pcReload() {
     pcObj.stream = stream
 
     let config = {
-        iceServers: [{
-            urls: ["stun:stun.l.google.com:19302"]
-        }]
+        // iceServers: [{
+        //     urls: ["stun:stun.l.google.com:19302"]
+        // }]
     };
 
     pcObj.pc = new RTCPeerConnection(config);
